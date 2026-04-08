@@ -36,4 +36,4 @@ A console-based application to manage student records and academic performance u
 ---
 
 ## 📸 Sample Output
-![image alt].(https://github.com/Puspraj-Magar/Smart-Student-Management-System/blob/fe47a73e03143b9648e9ca799aeed9cd0e5d5e20/Screenshot%202026-04-08%20154353.png)
+![Alt text](https://github.com/Puspraj-Magar/Smart-Student-Management-System/blob/fe47a73e03143b9648e9ca799aeed9cd0e5d5e20/Screenshot%202026-04-08%20154353.png)
